@@ -1,1 +1,2 @@
 VALUE="A B C D E"
+What else to do for this merge?
